@@ -1,1 +1,1 @@
-# Lowpoly-2D-Terrain-Generation
+# Lowpoly 2D Terrain Generation
